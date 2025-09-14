@@ -1,43 +1,33 @@
-🐢 Blog da Cabeçuda
+# 🐢 Blog da Cabeçuda
 
-Blog da Cabeçuda é um projeto educativo sobre a tartaruga cabeçuda (Caretta caretta), com foco em biologia, comportamento, habitat, reprodução e conservação dessa espécie marinha vulnerável.
+**Blog da Cabeçuda** é um projeto educativo sobre a **tartaruga cabeçuda (Caretta caretta)**, criado com o objetivo de ensinar de forma clara e acessível sobre biologia, comportamento, habitat, reprodução e conservação dessa espécie marinha vulnerável.
 
-📚 Conteúdos
+## 📚 Conteúdos
+Este projeto aborda:  
 
-Biologia e ciclo de vida
+- Biologia e ciclo de vida  
+- Distribuição e habitat mundial  
+- Alimentação e mandíbulas poderosas  
+- Reprodução e desova  
+- Conservação e ameaças  
+- Curiosidades sobre a espécie  
 
-Distribuição e habitat mundial
+## 🖼️ Galeria
+O blog possui uma coleção de imagens mostrando tartarugas em seu habitat natural, ilustrando comportamento, alimentação, reprodução e locomoção.
 
-Alimentação e mandíbulas poderosas
+## 🔍 Referências
+O conteúdo é baseado em fontes confiáveis:  
 
-Reprodução e desova
+- Projeto Tamar  
+- NOAA Fisheries  
+- IUCN Red List  
+- MarineBio Conservation Society  
 
-Conservação e ameaças
+## 👥 Equipe
+O projeto **Blog da Cabeçuda** foi desenvolvido por:  
 
-Curiosidades sobre a espécie
+- **Micaelly Mariano** – programação e desenvolvimento do site  
+- **Echiley, Erika, Lucy e Victória** – contribuições com pesquisas e conteúdos científicos  
 
-🖼️ Galeria
-
-Coleção de imagens mostrando tartarugas em seu habitat natural e comportamento cotidiano.
-
-🔍 Referências
-
-Projeto Tamar
-
-NOAA Fisheries
-
-IUCN Red List
-
-MarineBio Conservation Society
-
-👥 Equipe
-
-O projeto **Blog da Cabeçuda** foi desenvolvido por:
-
-- **Micaelly Mariano** – programação e desenvolvimento do site   
-- **Echiley**, **Erika**, **Lucy**  e **Victória** – contribuições com pesquisas e conteúdos científicos  
- 
-
-🌱 Objetivo
-
-Promover a conservação marinha e conscientizar sobre a importância da proteção das tartarugas cabeçudas.
+## 🌱 Objetivo
+Promover a **conservação marinha** e conscientizar sobre a importância da proteção das tartarugas cabeçudas.
