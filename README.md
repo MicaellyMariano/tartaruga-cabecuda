@@ -7,7 +7,7 @@ Este projeto aborda:
 
 - Biologia e ciclo de vida  
 - Distribuição e habitat mundial  
-- Alimentação e mandíbulas poderosas  
+- Alimentação  
 - Reprodução e desova  
 - Conservação e ameaças  
 - Curiosidades sobre a espécie  
@@ -16,7 +16,7 @@ Este projeto aborda:
 O blog possui uma coleção de imagens mostrando tartarugas em seu habitat natural, ilustrando comportamento, alimentação, reprodução e locomoção.
 
 ## 🔍 Referências
-O conteúdo é baseado em fontes confiáveis:  
+O conteúdo é baseado em fontes como:  
 
 - Projeto Tamar  
 - NOAA Fisheries  
