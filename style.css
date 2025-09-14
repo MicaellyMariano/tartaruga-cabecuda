@@ -1272,7 +1272,7 @@ body {
 
 .curiosity-card {
   position: relative;
-  height: 400px;
+  height: 600px;
   border-radius: var(--border-radius);
   cursor: pointer;
   transition: var(--transition);
